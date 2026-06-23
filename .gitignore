@@ -1,7 +1,7 @@
 venv/
 __pycache__/
-*.db
-plots/*.html
+# *.db
+# plots/*.html
 .pytest_cache/
 .vscode/
 .idea/got
